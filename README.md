@@ -119,4 +119,4 @@ El siguiente archivo XML define los estados de energía y control térmico de la
     </GPU>
 </SYSTEM>
 
-By BrowniesBlunts.
+By L1Nkz.
